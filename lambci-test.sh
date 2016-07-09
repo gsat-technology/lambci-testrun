@@ -1,4 +1,5 @@
 echo "hello world"
 ls
-pip install requests
+pip install --user requests
+which python
 

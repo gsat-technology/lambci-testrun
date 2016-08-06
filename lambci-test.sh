@@ -1,5 +1,6 @@
 echo "hello world"
 ls
-pip install --user requests
-which python
+
+docker run hello-world
+
 
